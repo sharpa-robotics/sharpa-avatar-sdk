@@ -118,7 +118,7 @@ If Sharpa Avatar App is installed, its package dependency may require the SDK to
 ## Related downloads
 
 - [Sharpa Avatar App](https://github.com/sharpa-robotics/sharpa-avatar-app)
-- Sharpa Avatar Firmware — published through a separate firmware repository
+- [Sharpa Avatar Firmware](https://github.com/sharpa-robotics/sharpa-avatar-ae01-firmware)
 
 ---
 
