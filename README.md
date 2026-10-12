@@ -14,8 +14,6 @@ Choose the package that matches your system architecture:
 avatar-sdk_<version>_<arch>.deb
 ```
 
-> No public release is available yet.
-
 ---
 
 ## 🚀 Installation (Ubuntu / Debian)
@@ -74,9 +72,9 @@ If you are installing the SDK for use with Sharpa Avatar App, follow the App rep
 
 ## 🔗 Compatibility
 
-| Avatar SDK | Avatar App | Notes |
-|---|---|---|
-| — | — | No public release yet |
+| Avatar SDK | Avatar App | Bundled firmware | Notes |
+|---|---|---|---|
+| 1.7.4 | 1.1.39 | 2.0.7 | Production release |
 
 This table will be updated with every public SDK release.
 
