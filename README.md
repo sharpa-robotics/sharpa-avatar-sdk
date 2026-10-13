@@ -1,6 +1,6 @@
 # Sharpa Avatar SDK
 
-Sharpa Avatar SDK provides libraries and APIs for integrating Sharpa Avatar into custom applications and robotics software stacks.
+Sharpa Avatar SDK provides libraries and APIs for integrating Sharpa AvatarExo Glove into custom applications and robotics software stacks.
 
 ---
 
